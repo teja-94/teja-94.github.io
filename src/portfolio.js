@@ -10,7 +10,7 @@ const illustration = {
 
 const greeting = {
     username: "Katuboyana Tejeswini",
-    title: "Hi all, I'm Tejeswini",
+    title: "Good to see, I'm Tejeswini",
     subTitle: emoji(
         "My commitment to my work adds to my personal growth and I have challenging myself to improve the new skills. And I trying to implement it in my code."
     ),
@@ -21,7 +21,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-    //github: "https://github.com/teja804",
+    //github: "https://github.com/teja-94",
     linkedin: "https://www.linkedin.com/in/tejeswini-katuboyana-339800147/",
     gmail: "katuboyanatejeswini@gmail.com",
     // gitlab: "https://gitlab.com/",
@@ -212,7 +212,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
     githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-    githubUserName: "teja804", // Change to your github username to view your profile in Contact Section.
+    githubUserName: "teja-94", // Change to your github username to view your profile in Contact Section.
     showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
     display: false // Set false to hide this section, defaults to true
 };
