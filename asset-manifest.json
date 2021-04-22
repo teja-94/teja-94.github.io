@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dev-teja.github.io/static/css/main.50b3d7df.chunk.css",
-    "main.js": "/dev-teja.github.io/static/js/main.a4e67160.chunk.js",
-    "main.js.map": "/dev-teja.github.io/static/js/main.a4e67160.chunk.js.map",
+    "main.js": "/dev-teja.github.io/static/js/main.480cc857.chunk.js",
+    "main.js.map": "/dev-teja.github.io/static/js/main.480cc857.chunk.js.map",
     "runtime-main.js": "/dev-teja.github.io/static/js/runtime-main.5e039798.js",
     "runtime-main.js.map": "/dev-teja.github.io/static/js/runtime-main.5e039798.js.map",
     "static/js/2.d806b205.chunk.js": "/dev-teja.github.io/static/js/2.d806b205.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.2d5293fb.chunk.js": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js",
     "static/js/4.2d5293fb.chunk.js.map": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js.map",
     "index.html": "/dev-teja.github.io/index.html",
-    "precache-manifest.1fa69a4fe7f4e3449148719f2b08458f.js": "/dev-teja.github.io/precache-manifest.1fa69a4fe7f4e3449148719f2b08458f.js",
+    "precache-manifest.dfc79fa91c61c39567d5cd94beef0fd9.js": "/dev-teja.github.io/precache-manifest.dfc79fa91c61c39567d5cd94beef0fd9.js",
     "service-worker.js": "/dev-teja.github.io/service-worker.js",
     "static/css/3.2ad04f36.chunk.css.map": "/dev-teja.github.io/static/css/3.2ad04f36.chunk.css.map",
     "static/css/4.03c720bd.chunk.css.map": "/dev-teja.github.io/static/css/4.03c720bd.chunk.css.map",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.5e039798.js",
     "static/js/2.d806b205.chunk.js",
     "static/css/main.50b3d7df.chunk.css",
-    "static/js/main.a4e67160.chunk.js"
+    "static/js/main.480cc857.chunk.js"
   ]
 }
