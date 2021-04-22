@@ -228,7 +228,7 @@ const bigProjects = {
             projectDesc: "I personally worked on millets product website for future business purpose. And this is the sample website",
             footerLink: [{
                     name: "Clone a Repository",
-                    url: "https://github.com/teja804/Millets-Web"
+                    url: "https://github.com/teja-94/Millets-Web"
                 }
                 //  you can add extra buttons here.
             ]
@@ -239,7 +239,7 @@ const bigProjects = {
             projectDesc: "I have done my personal portfolio.And In this that I mention all my expertise",
             footerLink: [{
                 name: "Clone a Repository",
-                url: "https://github.com/teja804/personal-portfolio-react"
+                url: "https://github.com/teja-94/dev-teja.github.io"
             }]
         }
     ],
