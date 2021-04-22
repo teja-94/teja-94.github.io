@@ -10,7 +10,7 @@ const illustration = {
 
 const greeting = {
     username: "Katuboyana Tejeswini",
-    title: "Good to see, I'm Tejeswini",
+    title: "Hello, I'm Tejeswini",
     subTitle: emoji(
         "My commitment to my work adds to my personal growth and I have challenging myself to improve the new skills. And I trying to implement it in my code."
     ),
