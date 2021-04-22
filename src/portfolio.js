@@ -225,7 +225,7 @@ const bigProjects = {
     projects: [{
             image: require("./assets/images/milletsLogo.png"),
             projectName: "Millets Clique",
-            projectDesc: "I personally worked on millets product website for future business purpose. And this is the sample website",
+            projectDesc: "I did it on the millet products website for future business purposes. ",
             footerLink: [{
                     name: "Clone a Repository",
                     url: "https://github.com/teja-94/Millets-Web"
@@ -236,7 +236,7 @@ const bigProjects = {
         {
             image: require("./assets/images/ppLogo.png"),
             projectName: "Personal Portfolio",
-            projectDesc: "I have done my personal portfolio.And In this that I mention all my expertise",
+            projectDesc: "I have done my personal portfolio. If you like this you can download it from the below link. ",
             footerLink: [{
                 name: "Clone a Repository",
                 url: "https://github.com/teja-94/dev-teja.github.io"
