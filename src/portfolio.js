@@ -250,7 +250,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Clone a Repository",
-          url: "https://github.com/teja804/react-portfolio"
+          url: "https://github.com/teja804/personal-portfolio-react"
         }
       ]
     }
