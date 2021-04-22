@@ -224,7 +224,7 @@ const bigProjects = {
     subtitle: "USING MY SKILLS AND KNOWLEDGE TO CREATE OWN WEBSITE FOR IMPROVEMENT TECH SKILLS.",
     projects: [{
             image: require("./assets/images/milletsLogo.png"),
-            projectName: "Millets",
+            projectName: "Millets Clique",
             projectDesc: "I personally worked on millets product website for future business purpose. And this is the sample website",
             footerLink: [{
                     name: "Clone a Repository",
