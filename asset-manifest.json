@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dev-teja.github.io/static/css/main.50b3d7df.chunk.css",
-    "main.js": "/dev-teja.github.io/static/js/main.480cc857.chunk.js",
-    "main.js.map": "/dev-teja.github.io/static/js/main.480cc857.chunk.js.map",
-    "runtime-main.js": "/dev-teja.github.io/static/js/runtime-main.5e039798.js",
-    "runtime-main.js.map": "/dev-teja.github.io/static/js/runtime-main.5e039798.js.map",
+    "main.css": "/dev-teja.github.io/static/css/main.c3f41e54.chunk.css",
+    "main.js": "/dev-teja.github.io/static/js/main.26dad9d1.chunk.js",
+    "main.js.map": "/dev-teja.github.io/static/js/main.26dad9d1.chunk.js.map",
+    "runtime-main.js": "/dev-teja.github.io/static/js/runtime-main.db4320bb.js",
+    "runtime-main.js.map": "/dev-teja.github.io/static/js/runtime-main.db4320bb.js.map",
     "static/js/2.d806b205.chunk.js": "/dev-teja.github.io/static/js/2.d806b205.chunk.js",
     "static/js/2.d806b205.chunk.js.map": "/dev-teja.github.io/static/js/2.d806b205.chunk.js.map",
-    "static/css/3.2ad04f36.chunk.css": "/dev-teja.github.io/static/css/3.2ad04f36.chunk.css",
+    "static/css/3.c94ae025.chunk.css": "/dev-teja.github.io/static/css/3.c94ae025.chunk.css",
     "static/js/3.33667a32.chunk.js": "/dev-teja.github.io/static/js/3.33667a32.chunk.js",
     "static/js/3.33667a32.chunk.js.map": "/dev-teja.github.io/static/js/3.33667a32.chunk.js.map",
-    "static/css/4.03c720bd.chunk.css": "/dev-teja.github.io/static/css/4.03c720bd.chunk.css",
+    "static/css/4.cf85ff31.chunk.css": "/dev-teja.github.io/static/css/4.cf85ff31.chunk.css",
     "static/js/4.2d5293fb.chunk.js": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js",
     "static/js/4.2d5293fb.chunk.js.map": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js.map",
     "index.html": "/dev-teja.github.io/index.html",
-    "precache-manifest.dfc79fa91c61c39567d5cd94beef0fd9.js": "/dev-teja.github.io/precache-manifest.dfc79fa91c61c39567d5cd94beef0fd9.js",
+    "precache-manifest.66cd0bce0937a377de939d1250dd6ffb.js": "/dev-teja.github.io/precache-manifest.66cd0bce0937a377de939d1250dd6ffb.js",
     "service-worker.js": "/dev-teja.github.io/service-worker.js",
-    "static/css/3.2ad04f36.chunk.css.map": "/dev-teja.github.io/static/css/3.2ad04f36.chunk.css.map",
-    "static/css/4.03c720bd.chunk.css.map": "/dev-teja.github.io/static/css/4.03c720bd.chunk.css.map",
-    "static/css/main.50b3d7df.chunk.css.map": "/dev-teja.github.io/static/css/main.50b3d7df.chunk.css.map",
+    "static/css/3.c94ae025.chunk.css.map": "/dev-teja.github.io/static/css/3.c94ae025.chunk.css.map",
+    "static/css/4.cf85ff31.chunk.css.map": "/dev-teja.github.io/static/css/4.cf85ff31.chunk.css.map",
+    "static/css/main.c3f41e54.chunk.css.map": "/dev-teja.github.io/static/css/main.c3f41e54.chunk.css.map",
     "static/js/2.d806b205.chunk.js.LICENSE.txt": "/dev-teja.github.io/static/js/2.d806b205.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dev-teja.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/b-cube.png": "/dev-teja.github.io/static/media/b-cube.0070ad0a.png",
@@ -35,9 +35,9 @@
     "static/media/TalkCard.css": "/dev-teja.github.io/static/media/talksCardBack.39eff4a9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e039798.js",
+    "static/js/runtime-main.db4320bb.js",
     "static/js/2.d806b205.chunk.js",
-    "static/css/main.50b3d7df.chunk.css",
-    "static/js/main.480cc857.chunk.js"
+    "static/css/main.c3f41e54.chunk.css",
+    "static/js/main.26dad9d1.chunk.js"
   ]
 }
