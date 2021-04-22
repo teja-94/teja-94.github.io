@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6291dde082d6d05f2e37210c6f2354ac",
+    "revision": "cc51b00db80bcee95653faae335d2440",
     "url": "/dev-teja.github.io/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-teja.github.io/static/css/4.03c720bd.chunk.css"
   },
   {
-    "revision": "bca87046e631f0128e53",
-    "url": "/dev-teja.github.io/static/css/main.b0368158.chunk.css"
+    "revision": "1e5c03627cd73f645fa9",
+    "url": "/dev-teja.github.io/static/css/main.50b3d7df.chunk.css"
   },
   {
     "revision": "948edd72eccc0f1e5adc",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js"
   },
   {
-    "revision": "bca87046e631f0128e53",
-    "url": "/dev-teja.github.io/static/js/main.78fd18e0.chunk.js"
+    "revision": "1e5c03627cd73f645fa9",
+    "url": "/dev-teja.github.io/static/js/main.a4e67160.chunk.js"
   },
   {
     "revision": "37b1b1cb93fd2feffdbd",
@@ -78,14 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/dev-teja.github.io/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "92876ea114c1a54fe4be52726709b720",
-    "url": "/dev-teja.github.io/static/media/milletsLogo.92876ea1.png"
-  },
-  {
-    "revision": "006539b6b63dd31b1a8ee863ac11ee0e",
-    "url": "/dev-teja.github.io/static/media/ppLogo.006539b6.png"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",

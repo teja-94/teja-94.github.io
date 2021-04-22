@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dev-teja.github.io/static/css/main.b0368158.chunk.css",
-    "main.js": "/dev-teja.github.io/static/js/main.78fd18e0.chunk.js",
-    "main.js.map": "/dev-teja.github.io/static/js/main.78fd18e0.chunk.js.map",
+    "main.css": "/dev-teja.github.io/static/css/main.50b3d7df.chunk.css",
+    "main.js": "/dev-teja.github.io/static/js/main.a4e67160.chunk.js",
+    "main.js.map": "/dev-teja.github.io/static/js/main.a4e67160.chunk.js.map",
     "runtime-main.js": "/dev-teja.github.io/static/js/runtime-main.5e039798.js",
     "runtime-main.js.map": "/dev-teja.github.io/static/js/runtime-main.5e039798.js.map",
     "static/js/2.d806b205.chunk.js": "/dev-teja.github.io/static/js/2.d806b205.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.2d5293fb.chunk.js": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js",
     "static/js/4.2d5293fb.chunk.js.map": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js.map",
     "index.html": "/dev-teja.github.io/index.html",
-    "precache-manifest.f418d71b7fc40f3da9a52b3353b201e2.js": "/dev-teja.github.io/precache-manifest.f418d71b7fc40f3da9a52b3353b201e2.js",
+    "precache-manifest.1fa69a4fe7f4e3449148719f2b08458f.js": "/dev-teja.github.io/precache-manifest.1fa69a4fe7f4e3449148719f2b08458f.js",
     "service-worker.js": "/dev-teja.github.io/service-worker.js",
     "static/css/3.2ad04f36.chunk.css.map": "/dev-teja.github.io/static/css/3.2ad04f36.chunk.css.map",
     "static/css/4.03c720bd.chunk.css.map": "/dev-teja.github.io/static/css/4.03c720bd.chunk.css.map",
-    "static/css/main.b0368158.chunk.css.map": "/dev-teja.github.io/static/css/main.b0368158.chunk.css.map",
+    "static/css/main.50b3d7df.chunk.css.map": "/dev-teja.github.io/static/css/main.50b3d7df.chunk.css.map",
     "static/js/2.d806b205.chunk.js.LICENSE.txt": "/dev-teja.github.io/static/js/2.d806b205.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dev-teja.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/b-cube.png": "/dev-teja.github.io/static/media/b-cube.0070ad0a.png",
@@ -29,8 +29,6 @@
     "static/media/gemLogo.png": "/dev-teja.github.io/static/media/gemLogo.8760422e.png",
     "static/media/googleAssistantLogo.webp": "/dev-teja.github.io/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/dev-teja.github.io/static/media/manOnTable.52be3144.svg",
-    "static/media/milletsLogo.png": "/dev-teja.github.io/static/media/milletsLogo.92876ea1.png",
-    "static/media/ppLogo.png": "/dev-teja.github.io/static/media/ppLogo.006539b6.png",
     "static/media/pwaLogo.webp": "/dev-teja.github.io/static/media/pwaLogo.ee62cb58.webp",
     "static/media/rkLogo.jpg": "/dev-teja.github.io/static/media/rkLogo.ca9b1053.jpg",
     "static/media/skill.svg": "/dev-teja.github.io/static/media/skill.34409398.svg",
@@ -39,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.5e039798.js",
     "static/js/2.d806b205.chunk.js",
-    "static/css/main.b0368158.chunk.css",
-    "static/js/main.78fd18e0.chunk.js"
+    "static/css/main.50b3d7df.chunk.css",
+    "static/js/main.a4e67160.chunk.js"
   ]
 }
