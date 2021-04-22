@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57b1b48dafbc1bc9dea158816339ed7c",
+    "revision": "dc00fc73d2ed6c692f9b83d6777f6b84",
     "url": "/dev-teja.github.io/index.html"
   },
   {
-    "revision": "541bf413792bf3a2a88c",
-    "url": "/dev-teja.github.io/static/css/3.6a352120.chunk.css"
+    "revision": "1fb40ee164c1915c697a",
+    "url": "/dev-teja.github.io/static/css/3.2ad04f36.chunk.css"
   },
   {
-    "revision": "b06dad6ef496db6150d5",
-    "url": "/dev-teja.github.io/static/css/4.6e14a8dd.chunk.css"
+    "revision": "95247d0322812759f9c7",
+    "url": "/dev-teja.github.io/static/css/4.03c720bd.chunk.css"
   },
   {
-    "revision": "a14fe9157a70f46c255c",
-    "url": "/dev-teja.github.io/static/css/main.3cafb3e8.chunk.css"
+    "revision": "6af3d076cfcfe4ba6d11",
+    "url": "/dev-teja.github.io/static/css/main.b0368158.chunk.css"
   },
   {
-    "revision": "269456d37773fffeebf6",
-    "url": "/dev-teja.github.io/static/js/2.5cfdc868.chunk.js"
+    "revision": "948edd72eccc0f1e5adc",
+    "url": "/dev-teja.github.io/static/js/2.d806b205.chunk.js"
   },
   {
     "revision": "d0d8190170b812713050bd2e6e947e19",
-    "url": "/dev-teja.github.io/static/js/2.5cfdc868.chunk.js.LICENSE.txt"
+    "url": "/dev-teja.github.io/static/js/2.d806b205.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "541bf413792bf3a2a88c",
-    "url": "/dev-teja.github.io/static/js/3.b6081709.chunk.js"
+    "revision": "1fb40ee164c1915c697a",
+    "url": "/dev-teja.github.io/static/js/3.33667a32.chunk.js"
   },
   {
-    "revision": "b06dad6ef496db6150d5",
-    "url": "/dev-teja.github.io/static/js/4.ed9b15c7.chunk.js"
+    "revision": "95247d0322812759f9c7",
+    "url": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js"
   },
   {
-    "revision": "a14fe9157a70f46c255c",
-    "url": "/dev-teja.github.io/static/js/main.1e3c8c5c.chunk.js"
+    "revision": "6af3d076cfcfe4ba6d11",
+    "url": "/dev-teja.github.io/static/js/main.439342f8.chunk.js"
   },
   {
-    "revision": "a3d6bf6069f677bb44c1",
-    "url": "/dev-teja.github.io/static/js/runtime-main.2181fd15.js"
+    "revision": "37b1b1cb93fd2feffdbd",
+    "url": "/dev-teja.github.io/static/js/runtime-main.5e039798.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-teja.github.io/static/media/skill.34409398.svg"
   },
   {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/dev-teja.github.io/static/media/talksCardBack.13780cdd.svg"
+    "revision": "39eff4a91b01e00a32cb78f3797eec88",
+    "url": "/dev-teja.github.io/static/media/talksCardBack.39eff4a9.svg"
   }
 ]);
