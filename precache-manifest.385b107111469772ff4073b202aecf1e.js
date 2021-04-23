@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3a47041f9fac30ba0bcb0575fb9a59b",
+    "revision": "8ac29bd823d48aaec62f156d115c50e2",
     "url": "/dev-teja.github.io/index.html"
   },
   {
-    "revision": "91ddee456fc1eb0264cf",
+    "revision": "a5f50d369accf6588aa6",
     "url": "/dev-teja.github.io/static/css/3.c94ae025.chunk.css"
   },
   {
-    "revision": "427e679d71bee2d0a8f9",
+    "revision": "4400726f074f525e7e98",
     "url": "/dev-teja.github.io/static/css/4.cf85ff31.chunk.css"
   },
   {
-    "revision": "33455ea27119d2cd44e7",
+    "revision": "3c85b7a27dee5154baec",
     "url": "/dev-teja.github.io/static/css/main.c3f41e54.chunk.css"
   },
   {
-    "revision": "948edd72eccc0f1e5adc",
-    "url": "/dev-teja.github.io/static/js/2.d806b205.chunk.js"
+    "revision": "269456d37773fffeebf6",
+    "url": "/dev-teja.github.io/static/js/2.5cfdc868.chunk.js"
   },
   {
     "revision": "d0d8190170b812713050bd2e6e947e19",
-    "url": "/dev-teja.github.io/static/js/2.d806b205.chunk.js.LICENSE.txt"
+    "url": "/dev-teja.github.io/static/js/2.5cfdc868.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91ddee456fc1eb0264cf",
-    "url": "/dev-teja.github.io/static/js/3.33667a32.chunk.js"
+    "revision": "a5f50d369accf6588aa6",
+    "url": "/dev-teja.github.io/static/js/3.b6081709.chunk.js"
   },
   {
-    "revision": "427e679d71bee2d0a8f9",
-    "url": "/dev-teja.github.io/static/js/4.2d5293fb.chunk.js"
+    "revision": "4400726f074f525e7e98",
+    "url": "/dev-teja.github.io/static/js/4.ed9b15c7.chunk.js"
   },
   {
-    "revision": "33455ea27119d2cd44e7",
-    "url": "/dev-teja.github.io/static/js/main.26dad9d1.chunk.js"
+    "revision": "3c85b7a27dee5154baec",
+    "url": "/dev-teja.github.io/static/js/main.257a2eae.chunk.js"
   },
   {
-    "revision": "833c5058321a1e683339",
-    "url": "/dev-teja.github.io/static/js/runtime-main.db4320bb.js"
+    "revision": "5f07fe81c9ceb8f4e6a7",
+    "url": "/dev-teja.github.io/static/js/runtime-main.97780771.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-teja.github.io/static/media/contactMailDark.51cf7192.svg"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/dev-teja.github.io/static/media/developerActivity.59389695.svg"
+    "revision": "0e465e9b7d7012022bcd19da35737fb9",
+    "url": "/dev-teja.github.io/static/media/developerActivity.0e465e9b.svg"
   },
   {
     "revision": "c1cccf7b4d64e9ff0fc943a8c43ca349",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dev-teja.github.io/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/dev-teja.github.io/static/media/manOnTable.52be3144.svg"
+    "revision": "4adeeb3db27c2da474f4a4f5ae9682ea",
+    "url": "/dev-teja.github.io/static/media/manOnTable.4adeeb3d.svg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
