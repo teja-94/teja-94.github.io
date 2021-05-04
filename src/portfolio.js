@@ -1,4 +1,4 @@
-﻿/* Change this file to get your personal Portfolio */
+/* Change this file to get your personal Portfolio */
 
 // Summary And Greeting Section
 
@@ -12,7 +12,7 @@ const greeting = {
     username: "Katuboyana Tejeswini",
     title: "Hello, I'm Tejeswini",
     subTitle: emoji(
-        "My commitment to my work adds to my personal growth and I have challenging myself to improve the new skills. And I trying to implement it in my code."
+        "A metallurgical engineer turned into a software professional due to my love & passion for coding. I am an adventurous person, always keep high targets for myself and keep working towards them. A curious & continuous learner, I try multiple things in coding. I love dancing, pets, driving & music."
     ),
     resumeLink: "https://drive.google.com/file/d/11WxcAHbaDN1H6Mqpj9OoOp59umRB_c7M/view?usp=sharing",
     displayGreeting: true // Set false to hide this section, defaults to true
@@ -221,7 +221,7 @@ const openSource = {
 
 const bigProjects = {
     title: "Personal Projects",
-    subtitle: "USING MY SKILLS AND KNOWLEDGE TO CREATE OWN WEBSITE FOR IMPROVEMENT TECH SKILLS.",
+    subtitle: "Using my technical skills and knowledge, I created the below websites.",
     projects: [{
             image: require("./assets/images/milletsLogo.png"),
             projectName: "Millets Clique",
