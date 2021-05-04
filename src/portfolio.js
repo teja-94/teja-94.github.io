@@ -1,4 +1,4 @@
-﻿/* Change this file to get your personal Portfolio */
+/* Change this file to get your personal Portfolio */
 
 // Summary And Greeting Section
 
