@@ -12,7 +12,7 @@ const greeting = {
     username: "Katuboyana Tejeswini",
     title: "Hello, I'm Tejeswini",
     subTitle: emoji(
-        "A metallurgical engineer turned into a software professional due to my love & passion for coding. I am an adventurous person, always keep high targets for myself and keep working towards them. A curious & continuous learner, I try multiple things in coding. I love dancing, pets, driving & musicrowth and I have challenging myself to improve the new sA metallurgical engineer turned into a software professional due to my love & passion for coding. I am an adventurous person, always keep high targets for myself and keep working towards them. A curious & continuous learner, I try multiple things in coding. I love dancing, pets, driving & music."
+        "A metallurgical engineer turned into a software professional due to my love & passion for coding. I am an adventurous person, always keep high targets for myself and keep working towards them. A curious & continuous learner, I try multiple things in coding. I love dancing, pets, driving & music."
     ),
     resumeLink: "https://drive.google.com/file/d/11WxcAHbaDN1H6Mqpj9OoOp59umRB_c7M/view?usp=sharing",
     displayGreeting: true // Set false to hide this section, defaults to true
