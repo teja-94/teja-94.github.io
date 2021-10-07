@@ -10,7 +10,7 @@ const illustration = {
 
 const greeting = {
     username: "Katuboyana Tejeswini",
-    title: "Hello, I'm Tejeswini",
+    title: "Hello, I'm Tejaswi",
     subTitle: emoji(
         "A metallurgical engineer turned into a software professional due to my love & passion for coding. I am an adventurous person, always keep high targets for myself and keep working towards them. A curious & continuous learner, I try multiple things in coding. I love dancing, pets, driving & music."
     ),
@@ -168,7 +168,7 @@ const techStack = {
 const workExperiences = {
     display: true, //Set it to true to show workExperiences Section
     experience: [{
-            role: "Assiocate Software Engineer",
+            role: "Software Engineer",
             company: "Gemini Consulting & Services India Pvt Ltd",
             companylogo: require("./assets/images/gemLogo.png"),
             date: "September 2019 – Present",
